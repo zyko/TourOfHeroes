@@ -1,5 +1,11 @@
 # See http://help.github.com/ignore-files/ for more about ignoring files.
 
+# exclude everything except directory foo/bar
+/*
+!/angular-tour-of-heroes
+/angular-tour-of-heroes/*
+!angular-tour-of-heroes/src/app
+
 # compiled output
 /dist
 /dist-server
