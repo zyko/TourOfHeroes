@@ -1,3 +1,6 @@
 
 angular-tour-of-heroes/src/app/.vs/VSWorkspaceState.json
 angular-tour-of-heroes/src/app/.vs/app/v15/.suo
+*.json
+*.json
+angular-tour-of-heroes/.editorconfig
